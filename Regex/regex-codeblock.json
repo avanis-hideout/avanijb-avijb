@@ -1,0 +1,17 @@
+{
+    "id": "b31145af-1162-4291-980c-717bc46a8022",
+    "scriptName": "Codeblock",
+    "findRegex": "/```python[\\s\\S]*?```/g",
+    "replaceString": "",
+    "trimStrings": [],
+    "placement": [
+        2
+    ],
+    "disabled": true,
+    "markdownOnly": true,
+    "promptOnly": true,
+    "runOnEdit": true,
+    "substituteRegex": 0,
+    "minDepth": null,
+    "maxDepth": null
+}
