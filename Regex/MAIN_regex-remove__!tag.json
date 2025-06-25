@@ -1,0 +1,18 @@
+{
+    "id": "be292394-e5a6-4a60-bb92-4e1ddc62c3a6",
+    "scriptName": "remove ?!tag",
+    "findRegex": "/<\\?!>/g",
+    "replaceString": "",
+    "trimStrings": [],
+    "placement": [
+        1,
+        2
+    ],
+    "disabled": false,
+    "markdownOnly": true,
+    "promptOnly": true,
+    "runOnEdit": true,
+    "substituteRegex": 0,
+    "minDepth": null,
+    "maxDepth": null
+}
