@@ -1,0 +1,17 @@
+{
+    "id": "f681a087-2525-41e0-b60c-29f19b57372d",
+    "scriptName": "Italics Removal",
+    "findRegex": "/\\*/g",
+    "replaceString": "",
+    "trimStrings": [],
+    "placement": [
+        2
+    ],
+    "disabled": false,
+    "markdownOnly": false,
+    "promptOnly": false,
+    "runOnEdit": true,
+    "substituteRegex": 0,
+    "minDepth": null,
+    "maxDepth": null
+}
