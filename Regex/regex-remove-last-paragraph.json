@@ -1,0 +1,17 @@
+{
+    "id": "1bb7154f-7f74-4a11-8898-6c7823f4b8f5",
+    "scriptName": "remove-last-paragraph",
+    "findRegex": "/\\s*\\n[^\\n]*?$/s",
+    "replaceString": "",
+    "trimStrings": [],
+    "placement": [
+        2
+    ],
+    "disabled": true,
+    "markdownOnly": false,
+    "promptOnly": false,
+    "runOnEdit": true,
+    "substituteRegex": 0,
+    "minDepth": null,
+    "maxDepth": null
+}
