@@ -1026,7 +1026,7 @@
             "marker": false,
             "name": "🥬🍞 Gemini Think",
             "role": "assistant",
-            "content": "# I will rehash the following points and no more, with no more than 100 words used. This template must be strictly followed:\n- The requested writing style is {{getglobalvar::writing}} {{getglobalvar::pers}}{{getglobalvar::writing2}}{{getglobalvar::writing3}}.\n- I am writing from the PoV of {{getglobalvar::pov}}.\n- I can also write actions and dialogue for {{getglobalvar::actors}}.\n- I am not allowed to write actions or dialogue for {{getglobalvar::bannedpov}}.\n- The word count of my reply should be around {{getglobalvar::length}} words.\n- I will begin writing my reply immediately after I finish thinking by using `<w>`.\n<think>",
+            "content": "# ➛ I will rehash the following points and no more, with no more than 100 words used. This template must be strictly followed:\n- The requested writing style is {{getglobalvar::writing}} {{getglobalvar::pers}}{{getglobalvar::writing2}}{{getglobalvar::writing3}}.\n- I am writing from the PoV of {{getglobalvar::pov}}.\n- I can also write actions and dialogue for {{getglobalvar::actors}}.\n- I am not allowed to write actions or dialogue for {{getglobalvar::bannedpov}}.\n- The word count of my reply should be around {{getglobalvar::length}} words.\n- I will begin writing my reply immediately after I finish thinking by using `<w>`.\n<think>",
             "injection_position": 0,
             "injection_depth": 4,
             "injection_order": 100,
