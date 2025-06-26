@@ -1,0 +1,17 @@
+{
+    "id": "80b1dd2c-b844-4863-a1fe-b7b3cfea48d8",
+    "scriptName": "remove <w> + think",
+    "findRegex": "^[^_]*<w>",
+    "replaceString": "",
+    "trimStrings": [],
+    "placement": [
+        2
+    ],
+    "disabled": false,
+    "markdownOnly": true,
+    "promptOnly": true,
+    "runOnEdit": true,
+    "substituteRegex": 0,
+    "minDepth": null,
+    "maxDepth": null
+}
